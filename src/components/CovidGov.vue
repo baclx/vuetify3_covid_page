@@ -178,19 +178,7 @@
             </ul>
           </div>
           <v-row>
-            <v-col lg="5">
-              <v-img src="../assets/img/img-body-1.jpg"></v-img>
-            </v-col>
-            <v-col lg="7">
-              <p class="text-below-img-2">
-                Thống nhất chuyển COVID-19 từ bệnh truyền nhiễm nhóm A xuống nhóm B
-              </p>
-              <p class="sub-text-below-img-2">
-                Ban Chỉ đạo Quốc gia phòng, chống dịch COVID-19 thống nhất chuyển...
-              </p>
-            </v-col>
-
-            <div class="d-flex mt-5 pt-5" style="border-top: 1px solid #e5e5e5">
+            <div class="d-flex style-height-img-body">
               <v-col lg="5">
                 <v-img src="../assets/img/img-body-1.jpg"></v-img>
               </v-col>
@@ -204,16 +192,30 @@
               </v-col>
             </div>
 
-            <div class="d-flex mt-5 pt-5" style="border-top: 1px solid #e5e5e5">
+            <div class="d-flex mt-5 pt-5 style-height-img-body" style="border-top: 1px solid #e5e5e5">
               <v-col lg="5">
-                <v-img src="../assets/img/img-body-1.jpg"></v-img>
+                <v-img src="../assets/img/img-body-1.1.jpg"></v-img>
               </v-col>
               <v-col lg="7">
                 <p class="text-below-img-2">
-                  Thống nhất chuyển COVID-19 từ bệnh truyền nhiễm nhóm A xuống nhóm B
+                  Bộ Y tế: COVID-19 và các bệnh có nguy cơ lây nhiễm khác tiếp tục diễn biến phức tạp
                 </p>
                 <p class="sub-text-below-img-2">
-                  Ban Chỉ đạo Quốc gia phòng, chống dịch COVID-19 thống nhất chuyển...
+                  Theo Bộ Y tế, hiện nay tình hình bệnh dịch COVID-19 và các bệnh có nguy cơ...
+                </p>
+              </v-col>
+            </div>
+
+            <div class="d-flex mt-5 pt-5 style-height-img-body" style="border-top: 1px solid #e5e5e5">
+              <v-col lg="5">
+                <v-img src="../assets/img/img-body-1.2.jpg"></v-img>
+              </v-col>
+              <v-col lg="7">
+                <p class="text-below-img-2">
+                  Bộ Y tế: Tăng cường phòng, chống COVID-19, dịch bệnh truyền nhiễm khác trong và...
+                </p>
+                <p class="sub-text-below-img-2">
+                  Theo Bộ Y tế trong tháng 4/2023, một số bệnh đã ghi nhận số mắc tăng mạnh so...
                 </p>
               </v-col>
             </div>
@@ -228,42 +230,44 @@
             </ul>
           </div>
           <v-row>
-            <v-col lg="5">
-              <v-img src="../assets/img/img-body-1.jpg"></v-img>
-            </v-col>
-            <v-col lg="7">
-              <p class="text-below-img-2">
-                Thống nhất chuyển COVID-19 từ bệnh truyền nhiễm nhóm A xuống nhóm B
-              </p>
-              <p class="sub-text-below-img-2">
-                Ban Chỉ đạo Quốc gia phòng, chống dịch COVID-19 thống nhất chuyển...
-              </p>
-            </v-col>
-
-            <div class="d-flex mt-5 pt-5" style="border-top: 1px solid #e5e5e5">
+            <div class="d-flex style-height-img-body">
               <v-col lg="5">
-                <v-img src="../assets/img/img-body-1.jpg"></v-img>
+                <v-img src="../assets/img/img-body-1.3.jpg"></v-img>
               </v-col>
               <v-col lg="7">
                 <p class="text-below-img-2">
-                  Thống nhất chuyển COVID-19 từ bệnh truyền nhiễm nhóm A xuống nhóm B
+                  Ngày 3/6: Ca COVID-19 mới giảm còn 280
                 </p>
                 <p class="sub-text-below-img-2">
-                  Ban Chỉ đạo Quốc gia phòng, chống dịch COVID-19 thống nhất chuyển...
+                  Bản tin phòng chống dịch COVID-19 của Bộ Y tế ngày 3/6 cho biết, có 280 ca...
                 </p>
               </v-col>
             </div>
 
-            <div class="d-flex mt-5 pt-5" style="border-top: 1px solid #e5e5e5">
+            <div class="d-flex mt-5 pt-5 style-height-img-body" style="border-top: 1px solid #e5e5e5">
               <v-col lg="5">
-                <v-img src="../assets/img/img-body-1.jpg"></v-img>
+                <v-img src="../assets/img/img-body-1.4.png"></v-img>
               </v-col>
               <v-col lg="7">
                 <p class="text-below-img-2">
-                  Thống nhất chuyển COVID-19 từ bệnh truyền nhiễm nhóm A xuống nhóm B
+                  Ngày 2/6: Có 744 ca COVID-19 mới trong 24h qua
                 </p>
                 <p class="sub-text-below-img-2">
-                  Ban Chỉ đạo Quốc gia phòng, chống dịch COVID-19 thống nhất chuyển...
+                  Bản tin phòng chống dịch COVID-19 ngày 2/6 của Bộ Y tế cho biết có 744 ca mắc...
+                </p>
+              </v-col>
+            </div>
+
+            <div class="d-flex mt-5 pt-5 style-height-img-body" style="border-top: 1px solid #e5e5e5">
+              <v-col lg="5">
+                <v-img src="../assets/img/img-body-1.5.jpg"></v-img>
+              </v-col>
+              <v-col lg="7">
+                <p class="text-below-img-2">
+                  Ngày 30/5: Có 652 ca COVID-19 mới, ca thở oxy tăng lên
+                </p>
+                <p class="sub-text-below-img-2">
+                  Bản tin phòng chống dịch COVID-19 của Bộ Y tế ngày 30/5 cho biết có 652 ca...
                 </p>
               </v-col>
             </div>
@@ -295,7 +299,7 @@
         <v-col lg="6">
           <v-row>
             <v-col lg="5">
-              <v-img src="../assets/img/img-body-1.jpg"></v-img>
+              <v-img src="../assets/img/img-body-2.1.jpg"></v-img>
             </v-col>
             <v-col lg="7">
               <p style="font-size: 14px" class="text-below-img-2">
@@ -305,7 +309,7 @@
 
             <div class="d-flex mt-5 pt-5" style="border-top: 1px solid #e5e5e5">
               <v-col lg="5">
-                <v-img src="../assets/img/img-body-1.jpg"></v-img>
+                <v-img src="../assets/img/img-body-2.2.jpg"></v-img>
               </v-col>
               <v-col lg="7">
                 <p style="font-size: 14px" class="text-below-img-2">
@@ -316,7 +320,7 @@
 
             <div class="d-flex mt-5 pt-5" style="border-top: 1px solid #e5e5e5">
               <v-col lg="5">
-                <v-img src="../assets/img/img-body-1.jpg"></v-img>
+                <v-img src="../assets/img/img-body-2.3.jpg"></v-img>
               </v-col>
               <v-col lg="7">
                 <p style="font-size: 14px" class="text-below-img-2">
@@ -345,27 +349,27 @@
           </div>
         </v-col>
         <v-col lg="3">
-          <v-img src="../assets/img/img-body-3.jpg"></v-img>
+          <v-img class="style-height-img-body-3" src="../assets/img/img-body-3.5.jpg"></v-img>
           <div class="text-below-img-3">
-            "COVID-19 không còn là tình trạng y tế khẩn cấp nhưng không có nghĩa chúng ta sẽ bỏ rơi..."
+            Sáng 14/1: Theo dõi chặt sự xuất hiện các biến thể mới của COVID-19
           </div>
         </v-col>
         <v-col lg="3">
-          <v-img src="../assets/img/img-body-3.jpg"></v-img>
+          <v-img class="style-height-img-body-3" src="../assets/img/img-body-3.2.jpg"></v-img>
           <div class="text-below-img-3">
-            "COVID-19 không còn là tình trạng y tế khẩn cấp nhưng không có nghĩa chúng ta sẽ bỏ rơi..."
+            Bộ trưởng Bộ Y tế Đào Hồng Lan: Nghị Quyết 30 góp phần kiểm soát thành công dịch bệnh COVID-19
           </div>
         </v-col>
         <v-col lg="3">
-          <v-img src="../assets/img/img-body-3.jpg"></v-img>
+          <v-img class="style-height-img-body-3" src="../assets/img/img-body-3.3.jpg"></v-img>
           <div class="text-below-img-3">
-            "COVID-19 không còn là tình trạng y tế khẩn cấp nhưng không có nghĩa chúng ta sẽ bỏ rơi..."
+            Thứ trưởng Bộ Y tế: Việt Nam là một trong những quốc gia có tỷ lệ bao phủ vaccine COVID-19 cao nhất thế giới
           </div>
         </v-col>
         <v-col lg="3">
-          <v-img src="../assets/img/img-body-3.jpg"></v-img>
+          <v-img class="style-height-img-body-3" src="../assets/img/img-body-3.4.jpg"></v-img>
           <div class="text-below-img-3">
-            "COVID-19 không còn là tình trạng y tế khẩn cấp nhưng không có nghĩa chúng ta sẽ bỏ rơi..."
+            Các chính sách tháo gỡ khó khăn cho người lao động ngành y tế sau ảnh hưởng của đại dịch COVID-19
           </div>
         </v-col>
       </v-row>
@@ -617,7 +621,7 @@ ul {
 /**/
 .text-below-img-2 {
   font-weight: 600;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 130%;
   letter-spacing: .02em;
   color: #333;
@@ -680,5 +684,13 @@ ul {
 .footer__name .text:first-child {
   margin-top: 10px;
   font-weight: 600;
+}
+
+.style-height-img-body {
+  height: 188px;
+}
+
+.style-height-img-body-3 {
+  height: 162px;
 }
 </style>
